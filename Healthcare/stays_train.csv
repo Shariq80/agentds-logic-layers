@@ -1,0 +1,8 @@
+stay_id,patient_id,unit_type,admission_reason,discharge_ready_day11
+1493,346,med_surg,Pneumonia,0
+1746,3843,stepdown,DiabetesComp,1
+592,972,med_surg,DiabetesComp,1
+1561,2987,stepdown,COPD,0
+244,1164,med_surg,HF,1
+659,1314,stepdown,DiabetesComp,1
+1748,358,med_surg,HF,1

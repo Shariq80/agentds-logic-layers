@@ -1,0 +1,6 @@
+Challenge 2: Quality Cost Prediction
+Task Description
+Predict rework costs for production units based on manufacturing parameters including machine speed, feed rate, coolant concentration, and target temperature. Accurate cost prediction helps optimize production settings and quality control processes to minimize expensive rework and waste.
+
+Evaluation Metric
+Normalized Gini Coefficient - Measures the model's ability to rank-order quality risk, essential for prioritizing quality control efforts and cost management.

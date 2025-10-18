@@ -1,0 +1,6 @@
+Challenge 3: Weekly Demand Forecasting
+Task Description
+Predict units sold next week for each region-SKU combination using pricing, promotions, seasonal patterns, and market conditions. Accurate demand forecasting enables optimal production planning and inventory management to meet customer demand while minimizing waste.
+
+Evaluation Metric
+Root Mean Squared Error (RMSE) - Measures prediction accuracy for weekly demand, essential for production planning and inventory optimization.

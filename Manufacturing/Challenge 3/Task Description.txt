@@ -1,0 +1,6 @@
+Challenge 3: Production Delay Forecasting
+Task Description
+Predict production delays in hours for shift-machine combinations using workload planning data, processing times, and environmental conditions. Accurate delay prediction enables better production scheduling, resource allocation, and delivery promise management.
+
+Evaluation Metric
+Mean Squared Error (MSE) - Measures prediction accuracy for delay hours, with lower values indicating better forecasting performance for operational planning.

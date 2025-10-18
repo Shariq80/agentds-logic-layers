@@ -1,0 +1,6 @@
+region_id,name,seasonality_amp
+1,Region-1,0.709
+2,Region-2,0.234
+3,Region-3,0.535
+4,Region-4,0.246
+5,Region-5,0.706

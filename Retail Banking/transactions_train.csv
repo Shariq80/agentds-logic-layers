@@ -1,0 +1,5 @@
+Timestamp_dt,TxnID,Timestamp,SessionID,CustomerID,SrcAccount,DstAccount,Channel,MCC_Group,Amount,FraudLabel
+2025/1/1 0:00,532ceea0-846f-4689-80e7-953913c8cbd5,2025/1/1 0:00,,C000352,A92e83abd,,ATM,Groceries,37.84,0
+2025/1/1 0:02,cdaeae81-0137-426a-92c7-c88726184fa7,2025/1/1 0:02,,C000965,A3f209383,,ATM,Salary/Benefit,71.31,0
+2025/1/1 0:03,68cfb36d-e2a9-4f70-ad4b-3f0029cd17cb,2025/1/1 0:03,,C000441,Adb76359d,,ATM,Other,53.41,0
+2025/1/1 0:04,a5c24ed3-55d7-487a-8de9-cd2e95235a1b,2025/1/1 0:04,,C000582,A4ae7d26c,,ATM,Groceries,26.45,0

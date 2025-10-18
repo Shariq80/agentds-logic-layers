@@ -1,0 +1,6 @@
+Challenge 3: Coupon Redemption Prediction
+Task Description
+Predict whether a customer will redeem a coupon offer for a specific SKU. Using customer profiles, historical spending patterns, email engagement, and coupon characteristics, the model helps optimize marketing campaigns and promotional targeting to maximize redemption rates and ROI.
+
+Evaluation Metric
+Macro-F1 Score - Balances precision and recall for coupon redemption prediction, ensuring effective targeting while minimizing wasted promotional spend.

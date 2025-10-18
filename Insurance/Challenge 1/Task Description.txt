@@ -1,0 +1,6 @@
+Challenge 1: Claims Complexity Prediction
+Task Description
+Predict the complexity level (Simple, Moderate, Complex) of auto insurance claims to optimize processing workflows. Using claim metadata, damage amounts, number of parties, and incident descriptions, the model helps insurers route claims to appropriate teams and allocate resources effectively. This automation reduces processing delays and ensures complex claims receive adequate attention.
+
+Evaluation Metric
+Macro-F1 Score - Balances performance across all complexity classes to maintain service quality while improving operational efficiency.

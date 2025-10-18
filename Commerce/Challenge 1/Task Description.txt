@@ -1,0 +1,6 @@
+Challenge 1: Weekly Store-SKU Demand Forecasting
+Task Description
+Predict how many units will be sold next week for each SKU. Using historical sales data including weekly sales patterns, pricing, and promotional activities, the model helps retailers optimize inventory planning and avoid stockouts or overstocking. This forecasting enables better supply chain coordination and cost management.
+
+Evaluation Metric
+Root Mean Squared Error (RMSE) - Measures prediction accuracy for unit sales, with lower values indicating better forecasting performance.

@@ -1,0 +1,6 @@
+Challenge 2: ED Cost Forecasting
+Task Description
+Forecast the total emergency department costs for patients over the next 3 years based on their historical ED utilization patterns, chronic conditions, and prior costs. This regression task helps healthcare systems plan resources and identify high-cost patients for intervention programs.
+
+Evaluation Metric
+Mean Absolute Error (MAE) - Measures the average absolute difference between predicted and actual costs, providing interpretable cost prediction accuracy.

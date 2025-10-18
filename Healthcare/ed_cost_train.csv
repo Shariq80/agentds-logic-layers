@@ -1,0 +1,8 @@
+patient_id,primary_chronic,prior_ed_visits_5y,prior_ed_cost_5y_usd,ed_cost_next3y_usd
+1080,HF,4,1031.3,2818.38
+1807,HF,8,5664.15,4966.03
+3038,DiabetesComp,3,1025.28,1823.47
+1314,DiabetesComp,3,1852.77,2722.92
+2456,COPD,6,3245.89,4123.67
+891,HF,2,567.45,1234.56
+1592,DiabetesComp,5,2890.12,3456.78

@@ -1,0 +1,9 @@
+admission_id,patient_id,primary_dx,los_days,acuity_emergent,charlson_band,ed_visits_6m,discharge_weekday,readmit_30d
+9038,3602,DiabetesComp,6,0,1,0,6,0
+7328,2940,Pneumonia,4,0,0,0,7,0
+6522,2610,DiabetesComp,10,1,1,0,6,1
+3741,1488,DiabetesComp,6,0,2,0,3,1
+2759,1104,HF,7,0,1,0,7,1
+6046,2417,HF,3,1,4,2,5,1
+5693,2265,HF,6,1,2,0,7,0
+7872,3150,DiabetesComp,10,0,2,0,7,0

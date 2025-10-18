@@ -1,0 +1,5 @@
+region_id,sku_id,week,sku_base,price,base_price,promo_flag,feature_display,stockout_prev,seasonal_index,units_sold_next_week
+7,1160,13,55.89,5.34,7.67,1,1,0,0.1974,73.267
+10,1132,5,54.86,8.18,8.15,0,1,0,0.1208,57.256
+10,1054,2,45.79,8.96,11.13,1,0,1,0.0666,67.878
+4,1061,30,39.76,10.92,10.45,0,0,1,-0.0511,44.571

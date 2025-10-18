@@ -1,0 +1,6 @@
+Challenge 2: Quality Control Pass/Fail Prediction
+Task Description
+Predict whether production lots pass microbiological quality checks using process parameters including cooking temperature, time, pH levels, line speed, and sanitation gaps. This binary classification helps automate quality control and ensure food safety standards.
+
+Evaluation Metric
+Macro-F1 Score - Balances precision and recall for quality pass/fail prediction, ensuring effective detection of quality issues while maintaining production efficiency.

@@ -1,0 +1,11 @@
+patient_id,age,sex,insurance,zip3
+1,22,M,private,021
+2,74,F,public,850
+3,65,M,private,100
+4,48,M,public,850
+5,48,F,public,733
+6,80,M,private,100
+7,22,F,private,606
+8,68,F,private,021
+9,31,F,private,850
+10,55,M,public,733

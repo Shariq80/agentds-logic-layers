@@ -1,0 +1,6 @@
+Challenge 1: Fraud Detection
+Task Description
+Predict the FraudLabel for each transaction in transactions_test.csv. Using transaction metadata, amounts, channels, merchant categories, and device information to identify potentially fraudulent banking activities while maintaining customer trust through accurate detection.
+
+Evaluation Metric
+Macro-F1 - Balances precision and recall for fraud detection, ensuring effective identification of fraudulent transactions while minimizing false positives.

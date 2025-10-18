@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2025-01-01",
+    "shift": 1,
+    "machine_id": "MCH_001",
+    "operator_id": "OP_034",
+    "operator_name": "William Thomas",
+    "log_text": "Shift 1 on MCH_001 - standard operating procedures. 12 jobs processed."
+  },
+  {
+    "date": "2025-01-01",
+    "shift": 2, 
+    "machine_id": "MCH_005",
+    "operator_id": "OP_078",
+    "operator_name": "Sarah Johnson",
+    "log_text": "Shift 2 on MCH_005 - completed 15 jobs. No issues reported."
+  }
+]

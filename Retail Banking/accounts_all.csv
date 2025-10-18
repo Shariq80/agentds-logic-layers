@@ -1,0 +1,6 @@
+CustomerID,AccountID,Type,Balance,Limit,OpenDate
+C000001,Aa95695be,credit_card,535.15,24081.77,2019-07-02
+C000002,A04c87035,credit_card,188.57,8485.57,2020-09-17
+C000002,A7464b435,checking,150.32,,2020-11-22
+C000003,A0c7e1cc4,checking,364.62,,2024-06-23
+C000003,Ac8da0e6b,checking,608.61,,2024-09-17

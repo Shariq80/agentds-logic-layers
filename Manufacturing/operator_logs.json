@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2025-01-01",
+    "shift": 1,
+    "machine_id": "MCH_007",
+    "operator_id": "OP_065",
+    "operator_name": "Jessica Lee",
+    "log_text": "MCH_007 is operating smoothly without any issues."
+  },
+  {
+    "date": "2025-01-01", 
+    "shift": 2,
+    "machine_id": "MCH_003",
+    "operator_id": "OP_042",
+    "operator_name": "David Chen",
+    "log_text": "Routine maintenance completed on MCH_003. All systems normal."
+  }
+]

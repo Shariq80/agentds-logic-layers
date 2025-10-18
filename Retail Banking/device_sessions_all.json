@@ -1,0 +1,28 @@
+[
+  {
+    "CustomerID": "C000001",
+    "SessionID": "551a1ac3-4f20-4ce9-b6d6-c7cb07b460d5",
+    "Timestamp": "2025-01-01T01:11:12",
+    "City": "City096",
+    "IP": "10.145.14.7",
+    "DeviceID": "B5E74E",
+    "Actions": [
+      "login",
+      "logout"
+    ]
+  },
+  {
+    "CustomerID": "C000002",
+    "SessionID": "a42b3c1d-5e6f-7890-abcd-ef1234567890",
+    "Timestamp": "2025-01-01T02:15:30",
+    "City": "City023",
+    "IP": "10.145.15.2",
+    "DeviceID": "CC3589",
+    "Actions": [
+      "login",
+      "account_view",
+      "payment",
+      "logout"
+    ]
+  }
+]

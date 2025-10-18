@@ -1,0 +1,6 @@
+Challenge 2: Risk-Based Pricing
+Task Description
+Predict NextYearLoss for auto insurance policies using policyholder demographics, vehicle characteristics, location factors, and credit profiles. Accurate risk assessment enables fair, data-driven premium pricing that reflects individual risk while maintaining competitiveness. This directly impacts profitability and customer satisfaction in insurance markets.
+
+Evaluation Metric
+Normalized Gini Coefficient - Measures risk ranking accuracy, which is fundamental to insurance pricing effectiveness and business sustainability.

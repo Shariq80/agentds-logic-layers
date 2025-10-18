@@ -1,0 +1,14 @@
+[
+  {
+    "admission_id": 1,
+    "note": "On discharge, limited community ambulation outdoors while wound care instructions discussed and documented."
+  },
+  {
+    "admission_id": 2,
+    "note": "Patient stable for discharge. Home care instructions provided. Follow-up scheduled with primary care."
+  },
+  {
+    "admission_id": 3,
+    "note": "Condition improved during stay. Medications reconciled. Discharge planning completed."
+  }
+]

@@ -1,0 +1,6 @@
+Challenge 1: 30-Day Readmission Prediction
+Task Description
+Predict whether an inpatient admission will be followed by a readmission within 30 days. This binary classification task uses admission data including length of stay, acuity level, Charlson comorbidity index, recent ED visits, and discharge timing to assess readmission risk.
+
+Evaluation Metric
+Macro-F1 Score - Balances precision and recall across readmission and non-readmission classes, ensuring the model performs well for both outcomes.

@@ -1,0 +1,23 @@
+[
+  {
+    "stay_id": 731,
+    "days": [
+      {
+        "day": 1,
+        "hr": 86.3,
+        "sbp": 105.9,
+        "dbp": 68.7,
+        "temp_c": 36.7,
+        "note": "Patient admitted with stable vitals"
+      },
+      {
+        "day": 2,
+        "hr": 84.1,
+        "sbp": 108.2,
+        "dbp": 70.1,
+        "temp_c": 36.8,
+        "note": "Vitals stable, responding well"
+      }
+    ]
+  }
+]

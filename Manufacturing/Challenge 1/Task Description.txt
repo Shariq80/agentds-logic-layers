@@ -1,0 +1,6 @@
+Challenge 1: Predictive Maintenance
+Task Description
+Predict machine failures within 24 hours using sensor readings including temperature, vibration, and pressure data. The model analyzes real-time sensor streams to identify patterns indicating impending equipment failures, enabling proactive maintenance that reduces unplanned downtime and repair costs.
+
+Evaluation Metric
+Macro-F1 Score - Balances detection of actual failures with minimization of false alarms that lead to unnecessary maintenance interventions.

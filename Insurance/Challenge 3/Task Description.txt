@@ -1,0 +1,6 @@
+Challenge 3: Fraud Detection
+Task Description
+Identify potentially fraudulent auto insurance claims by analyzing claim patterns, damage amounts, and incident circumstances. Effective fraud detection protects honest policyholders from increased premiums while reducing industry losses. The challenge lies in catching fraud schemes while minimizing false positives that damage customer relationships.
+
+Evaluation Metric
+Macro-F1 Score - Balances fraud detection effectiveness with customer trust by optimizing both precision and recall.

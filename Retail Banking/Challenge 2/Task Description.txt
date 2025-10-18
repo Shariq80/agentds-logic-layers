@@ -1,0 +1,6 @@
+Challenge 2: Credit Default Prediction
+Task Description
+Predict the DefaultLabel for each customer-week combination in customer_panel_test.csv. Using customer credit utilization, payment ratios, hard inquiries, and behavioral patterns to assess default risk for proactive credit management and portfolio protection.
+
+Evaluation Metric
+Macro-F1 - Balances precision and recall for default prediction, ensuring effective risk assessment while maintaining fair customer treatment.

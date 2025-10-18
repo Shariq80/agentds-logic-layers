@@ -1,0 +1,5 @@
+offer_id,customer_id,sku_id,category,discount_pct,price_tier,hist_spend,email_open_rate,avg_basket_value,target_redeem
+761,381,236,Snacks,5,high,49.48,0.324,20.47,1
+989,495,1123,Personal Care,26,low,138.29,0.359,87.96,0
+375,188,1389,Small Appliances,25,mid,238.53,0.218,75.50,0
+769,385,86,Beverages,23,mid,228.79,0.351,67.02,1

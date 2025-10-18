@@ -1,0 +1,6 @@
+sku_id,category,storage_class,base_shelf_life_days
+1001,Prepared,refrigerated,8
+1002,Dairy,refrigerated,15
+1003,Produce,produce,13
+1004,Produce,produce,5
+1005,Meat,refrigerated,12

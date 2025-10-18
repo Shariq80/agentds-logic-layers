@@ -1,0 +1,6 @@
+Challenge 2: Personalized Product Recommendations
+Task Description
+Recommend top-10 products for each customer in ranked order using their purchase history and preferences. The model analyzes customer behavior patterns to suggest products they are most likely to purchase, improving customer satisfaction and driving sales through personalized experiences.
+
+Evaluation Metric
+NDCG@10 (Normalized Discounted Cumulative Gain) - Evaluates recommendation quality with higher scores for relevant products ranked higher in the top-10 list.

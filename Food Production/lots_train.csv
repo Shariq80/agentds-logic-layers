@@ -1,0 +1,5 @@
+lot_id,sku_id,site_id,cook_temp_F,cook_time_min,chill_time_min,acidification_pH,line_speed,sanitation_gap_min,inspector_note,qc_pass
+201596,1065,8,170.1,38.2,42.6,5.01,86.8,37.1,no residue on lid,0
+200492,1120,3,171.5,29.5,38.6,4.91,79.9,16.5,no residue on lid; no swelling noted,1
+201302,1185,10,178.4,43.7,54.3,4.61,64.4,30.8,color within normal variation; package undistorted,1
+201450,1183,4,176.0,39.4,51.4,4.66,71.9,20.4,no foreign matter visible,1

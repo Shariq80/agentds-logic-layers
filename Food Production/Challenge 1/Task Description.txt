@@ -1,0 +1,6 @@
+Challenge 1: Shelf Life Prediction
+Task Description
+Predict the remaining shelf life in days for food production batches using storage conditions, temperature, humidity, and door opening patterns. Accurate shelf life prediction helps minimize food waste and optimize inventory rotation while ensuring product safety and quality.
+
+Evaluation Metric
+Mean Absolute Error (MAE) - Measures prediction accuracy for remaining shelf life days, with lower values indicating better forecasting performance for waste reduction.

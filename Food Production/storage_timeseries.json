@@ -1,0 +1,14 @@
+[
+  {
+    "batch_id": 10001,
+    "series": [
+      { "temp_F": 37.4, "rh": 83.6 },
+      { "temp_F": 37.6, "rh": 83.7 },
+      { "temp_F": 37.2, "rh": 83.5 }
+    ],
+    "notes": [
+      "door cycling high overnight",
+      "condensation cleaned"
+    ]
+  }
+]
